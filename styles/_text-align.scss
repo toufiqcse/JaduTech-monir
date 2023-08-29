@@ -1,0 +1,15 @@
+.text-center {
+  text-align: center;
+}
+.text-end {
+  text-align: right !important;
+}
+
+@media (min-width: 992px) {
+  .text-lg-start {
+    text-align: left !important;
+  }
+  .text-lg-end {
+    text-align: right;
+  }
+}

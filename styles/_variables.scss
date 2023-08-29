@@ -1,0 +1,22 @@
+$font-primary: 'Poppins', sans-serif;
+
+// Primary Color
+$color-primary: #103da2 !default;
+$color-secondary: #24cccd !default;
+$color-primary-dark-v1: darken($color-primary, 2%) !default;
+$color-primary-dark-v2: darken($color-primary, 5%) !default;
+$color-primary-dark-v3: darken($color-primary, 10%) !default;
+$color-primary-light-v1: rgba($color-primary, 0.2) !default;
+$color-primary-light-v2: rgba($color-primary, 0.8) !default; // R
+
+// Color Black
+$color-black: #000 !default;
+
+// Color White
+$color-white: #fff !default;
+
+$color-gray-dark-v1: #111 !default;
+$color-gray-dark-v2: #333 !default;
+$color-gray-dark-v3: #555 !default;
+$color-gray-dark-v4: #777 !default;
+$color-gray-dark-v5: #999 !default;
